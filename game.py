@@ -18,7 +18,7 @@ x = 30
 y = 454
 widht = 80
 height = 95
-speed = 5
+speed = 7
 
 isJump = False
 jumpCount = 10
